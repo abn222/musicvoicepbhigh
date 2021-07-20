@@ -13,7 +13,7 @@ License -> https://github.com/shamilhabeebnelli/MwK-Musics/blob/master/LICENSE
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shamilhabeebnelli/mwk-musics)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/abn222/musicvoicepbhigh)
 
 
 ### Deploy to VPS
